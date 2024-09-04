@@ -1,3 +1,0 @@
-# Your requirements go here
-google-auth
-gspread
